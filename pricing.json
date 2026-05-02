@@ -1,0 +1,40 @@
+{
+  "plans": [
+    {
+      "name": "Starter",
+      "price": 60,
+      "featured": false,
+      "features": [
+        "Free gym access",
+        "Unlimited cardio",
+        "Equipped locker rooms",
+        "Standard hours"
+      ]
+    },
+    {
+      "name": "Elite",
+      "price": 95,
+      "featured": true,
+      "features": [
+        "Everything in Starter",
+        "Group classes included",
+        "1 coaching session/month",
+        "Cross Training access",
+        "Personalized program"
+      ]
+    },
+    {
+      "name": "Champion",
+      "price": 150,
+      "featured": false,
+      "features": [
+        "Everything in Elite",
+        "Unlimited private coaching",
+        "Nutrition tracking included",
+        "HYROX preparation",
+        "VIP access 6 days/week",
+        "Priority access"
+      ]
+    }
+  ]
+}
